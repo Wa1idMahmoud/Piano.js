@@ -1,6 +1,6 @@
 # Piano.js
 
-### To View a Live demo of the Piano please visit this link: [Piano.js]()
+### To View a Live demo of the Piano please visit this link: [Piano.js](https://wa1idmahmoud.github.io/Piano.js/)
 
 In this Repo I show you how to build a piano that plays sounds using the Audio object in JavaScript! This uses the new Audio Object in JavaScript.
 
